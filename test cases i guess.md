@@ -12,3 +12,5 @@ alternate cases:
 6. watch a network as we're training it. if we see a neuron that fires in a certain condition, manually nuke it.
 
 i guess a relevant useful tool would be to select a set of input training cases and give a listing of neurons that are correlated with those training cases (as in the RNN post)
+
+play around with an "unknown" output neuron in addition to classifiers
