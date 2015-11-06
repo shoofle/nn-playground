@@ -14,3 +14,7 @@ alternate cases:
 i guess a relevant useful tool would be to select a set of input training cases and give a listing of neurons that are correlated with those training cases (as in the RNN post)
 
 play around with an "unknown" output neuron in addition to classifiers
+
+how can you make a neural network output data structures, like, could you make a neural network that would be even *capable* of producing like, an AST. whatever the solution is its gonna involve training on really simple cases i guess
+
+using neural networks to train neural networks??
