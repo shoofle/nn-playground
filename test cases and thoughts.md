@@ -19,3 +19,7 @@ play around with an "unknown" output neuron in addition to classifiers
 how can you make a neural network output data structures, like, could you make a neural network that would be even *capable* of producing like, an AST. whatever the solution is its gonna involve training on really simple cases i guess
 
 using neural networks to train neural networks??
+
+ideas for things to do
+1. http://the-toast.net/2013/12/02/a-linguist-explains-the-rules-of-summoning-benedict-cumberbatch/ train on benedict cumberbatch and see if i can extract some good rules
+2. how could a neural network output or process structural data?
